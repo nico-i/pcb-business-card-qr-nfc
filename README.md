@@ -2,7 +2,9 @@
 
 Here is my latest and greatest PCB business card, designed in KiCad 5.0. The KiCad files and gerber files are included for reuse. The procedure on how to create this business card from scratch are on my website here: https://salvagedcircuitry.com/pcb-business-card
 
-Special thanks to Brian D. Carlton for creating an awesome KiCad business card template. This project is an extension of Brian's original project and is appropriately Licensed CC BY-NC-SA 4.0.
 
-<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">PCB Buiness Card QR NFC</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/bdc0/businesscard" property="cc:attributionName" rel="cc:attributionURL">Anthony Kouttron</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />
+<a href="http://salvagedcircuitry.com/img/pcb-business-card/back.JPG" title="source: salvagedcircuitry.com" /></a>
+
+
+Special thanks to Brian D. Carlton for creating an awesome KiCad business card template. This project is an extension of Brian's original project and is appropriately licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
